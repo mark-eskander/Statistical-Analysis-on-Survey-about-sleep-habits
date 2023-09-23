@@ -25,20 +25,23 @@ knowledge about :<br/>
      &emsp;-factor analysis<br/>
      &emsp;- adequacy test<br/>
      &emsp;- multible correspondance analysis<br/>
+     <hr>
 2-<b>Correlation anaysis (Measures of Association): <b/><br/>
    &emsp;  - Cramer's V <br/>
    &emsp;  - Chi-Squared Test<br/>
+   <hr>
 3- <b> Assessing Internal Consistency and Reliability : <b/><br/>
     &emsp; - Kuder-Richardson Formula 20 (KR-20) for binary  <br/>
     &emsp; - Kuder-Richardson Formula 21 (KR-20) for categorical <br/>
+    <hr>
 4- <b>inferential statistics:<b/><br/>
 we want to determine if the mean of sleeping hours of Males and Females are the same or not  so we did :<br/>
     &emsp; - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else 
-             use &emsp; non parametric test ( in our case we used non parametric test using  Shapiro-Wilk test) <br/>
+             use non parametric test ( in our case we used non parametric test using  Shapiro-Wilk test) <br/>
     &emsp; - check if the <b>distribution<b/> of sleeping hours of Males & Females the same or not using Kolmogorov- smirnov test <br/>
     &emsp; - to compare two sample means that come from the same population  and to test whether two sample means are equal or not , as 
-             &emsp; distribution of 2 independent samples is the same and the values are continous therefore we can use Mann-Whitney U test<br/>
-             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+             distribution of 2 independent samples is the same and the values are continous therefore we can use Mann-Whitney U test<br/>
+           <hr>
 5- <b> clustreing analysis: <b/> <br/>
    &emsp;  - KModes Clustering Algorithm<br/>
    &emsp;  - Hierarchical Clustering<br/>
