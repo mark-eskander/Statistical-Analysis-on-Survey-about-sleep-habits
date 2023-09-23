@@ -22,31 +22,30 @@ knowledge about :<br/>
 8- Calculate outliers<br/>
 # STATISTICAL ANALYSIS stage
 1- <b>Assessing construct validty :<b/><br/>
-     -factor analysis<br/>
-     - adequacy test<br/>
-     - multible correspondance analysis<br/>
+     &emsp;-factor analysis<br/>
+     &emsp;- adequacy test<br/>
+     &emsp;- multible correspondance analysis<br/>
 2-<b>Correlation anaysis (Measures of Association): <b/><br/>
-     - Cramer's V <br/>
-     - Chi-Squared Test<br/>
+   &emsp;  - Cramer's V <br/>
+   &emsp;  - Chi-Squared Test<br/>
 3- <b> Assessing Internal Consistency and Reliability : <b/>
-     - Kuder-Richardson Formula 20 (KR-20) for binary  <br/>
-     - Kuder-Richardson Formula 21 (KR-20) for categorical <br/>
+    &emsp; - Kuder-Richardson Formula 20 (KR-20) for binary  <br/>
+    &emsp; - Kuder-Richardson Formula 21 (KR-20) for categorical <br/>
 4- <b>inferential statistics:<b/>
 we want to determine if the mean of sleeping hours of Males and Females are the same or not  so we did :<br/>
-     - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else use 
-       non parametric test ( in our case we used non parametric test using <b><i> Shapiro-Wilk test<b/><i>) <br/>
+    &emsp; - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else use non parametric test ( in our case we used non parametric test using <b><i> Shapiro-Wilk test<b/><i>) <br/>
      
-     -  check if the <b>distribution<b/> of sleeping hours of Males & Females the same or not using <b><i> Kolmogorov- smirnov test <b/><i/><br/>
-     -  to compare two sample means that come from the same population  and to test whether two sample means are equal or not , as <u>distribution of 2 independent samples is the same<u/> and the <u> values are continous<u/> therefore we can use <i><b>Mann-Whitney U test<b/><i/><br/>
+    &emsp; -  check if the <b>distribution<b/> of sleeping hours of Males & Females the same or not using <b><i> Kolmogorov- smirnov test <i/><b/><br/>
+    &emsp; -  to compare two sample means that come from the same population  and to test whether two sample means are equal or not , as <u>distribution of 2 independent samples is the same<u/> and the <u> values are continous<u/> therefore we can use <i><b>Mann-Whitney U test<b/><i/><br/>
 5- <b> clustreing analysis: <b/>
-     - KModes Clustering Algorithm<br/>
-     - Hierarchical Clustering<br/>
-     - Agglomerative Clustering <br/>
-     - Silhouette Score <br/>
-     - Cophenetic Correlation Coefficient<br/>
-     - Dunn Index<br/>
-     - Calinski-Harabasz Index<br/>
-     - Agglomerative Clustering<br/>
+   &emsp;  - KModes Clustering Algorithm<br/>
+   &emsp;  - Hierarchical Clustering<br/>
+   &emsp;  - Agglomerative Clustering <br/>
+   &emsp;  - Silhouette Score <br/>
+   &emsp;  - Cophenetic Correlation Coefficient<br/>
+   &emsp;  - Dunn Index<br/>
+    &emsp; - Calinski-Harabasz Index<br/>
+    &emsp; - Agglomerative Clustering<br/>
 # Visualitions
 we used  animation graphs  & fixed visualizations at preprocessing stage and statistical analysis stage
 
