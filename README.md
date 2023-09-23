@@ -33,10 +33,12 @@ knowledge about :<br/>
     &emsp; - Kuder-Richardson Formula 21 (KR-20) for categorical <br/>
 4- <b>inferential statistics:<b/><br/>
 we want to determine if the mean of sleeping hours of Males and Females are the same or not  so we did :<br/>
-    &emsp; - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else use non parametric test ( in our case we used non parametric test using <b><i> Shapiro-Wilk test<b/><i>) <br/>
-    &emsp; - check if the <b>distribution<b/> of sleeping hours of Males & Females the same or not using <b><i> Kolmogorov- smirnov test <i/><b/><br/>
-    &emsp; - to compare two sample means that come from the same population  and to test whether two sample means are equal or not , as <u>distribution of 2 independent samples is the same<u/> and the <u> values are continous<u/> therefore we can use <i><b>Mann-Whitney U test<b/><i/><br/>
-5- <b> clustreing analysis: <b/><br/>
+    &emsp; - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else 
+             use non parametric test ( in our case we used non parametric test using  Shapiro-Wilk test) <br/>
+    &emsp; - check if the <b>distribution<b/> of sleeping hours of Males & Females the same or not using Kolmogorov- smirnov test <br/>
+    &emsp; - to compare two sample means that come from the same population  and to test whether two sample means are equal or not , as 
+             distribution of 2 independent samples is the same and the values are continous therefore we can use Mann-Whitney U test<br/>
+5- <b> clustreing analysis: <b/> <br/>
    &emsp;  - KModes Clustering Algorithm<br/>
    &emsp;  - Hierarchical Clustering<br/>
    &emsp;  - Agglomerative Clustering <br/>
