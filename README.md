@@ -51,7 +51,7 @@ we want to determine if the mean of sleeping hours of Males and Females are the 
    &emsp;  - Dunn Index<br/>
     &emsp; - Calinski-Harabasz Index<br/>
     &emsp; - Agglomerative Clustering<br/>
-# Visualitions 
+<h1> Visualizations </h1>
 we used  animation graphs  & fixed visualizations at preprocessing stage and statistical analysis stage
 
 
