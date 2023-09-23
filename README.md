@@ -28,10 +28,10 @@ knowledge about :<br/>
 2-<b>Correlation anaysis (Measures of Association): <b/><br/>
    &emsp;  - Cramer's V <br/>
    &emsp;  - Chi-Squared Test<br/>
-3- <b> Assessing Internal Consistency and Reliability : <b/>
+3- <b> Assessing Internal Consistency and Reliability : <b/><br/>
     &emsp; - Kuder-Richardson Formula 20 (KR-20) for binary  <br/>
     &emsp; - Kuder-Richardson Formula 21 (KR-20) for categorical <br/>
-4- <b>inferential statistics:<b/>
+4- <b>inferential statistics:<b/><br/>
 we want to determine if the mean of sleeping hours of Males and Females are the same or not  so we did :<br/>
     &emsp; - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else use non parametric test ( in our case we used non parametric test using <b><i> Shapiro-Wilk test<b/><i>) <br/>
      
