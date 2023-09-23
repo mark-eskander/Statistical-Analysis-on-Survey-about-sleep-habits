@@ -34,10 +34,11 @@ knowledge about :<br/>
 4- <b>inferential statistics:<b/><br/>
 we want to determine if the mean of sleeping hours of Males and Females are the same or not  so we did :<br/>
     &emsp; - check the normality of the data of specific column [sleeping hours] for Females & Males if exists use parametric test ,else 
-             use non parametric test ( in our case we used non parametric test using  Shapiro-Wilk test) <br/>
+             use &emsp; non parametric test ( in our case we used non parametric test using  Shapiro-Wilk test) <br/>
     &emsp; - check if the <b>distribution<b/> of sleeping hours of Males & Females the same or not using Kolmogorov- smirnov test <br/>
     &emsp; - to compare two sample means that come from the same population  and to test whether two sample means are equal or not , as 
-             distribution of 2 independent samples is the same and the values are continous therefore we can use Mann-Whitney U test<br/>
+             &emsp; distribution of 2 independent samples is the same and the values are continous therefore we can use Mann-Whitney U test<br/>
+             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 5- <b> clustreing analysis: <b/> <br/>
    &emsp;  - KModes Clustering Algorithm<br/>
    &emsp;  - Hierarchical Clustering<br/>
